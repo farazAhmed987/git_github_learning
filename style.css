@@ -1,0 +1,11 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #212121;
+
+}
+h1{
+    font-size: 4rem;
+    color: rgb(48, 9, 9);
+    box-shadow: 2px 3px 5px  white;
+}
